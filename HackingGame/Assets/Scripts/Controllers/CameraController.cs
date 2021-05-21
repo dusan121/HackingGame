@@ -23,9 +23,9 @@ public class CameraController : MonoBehaviour
     {
         Vector2 middlePosition = Vector2.Lerp(bottomLeft, topRight, 0.5f);
         transform.position = new Vector3(middlePosition.x, middlePosition.y, transform.position.z);
-        mainCam.orthographicSize = Vector2.Distance(bottomLeft, transform.position);
-
-        maxZoomOut = mainCam.orthographicSize;
+        float newOrtographicSize = Vector2.Distance(bottomLeft, transform.position);
+        mainCam.orthographicSize = (newOrtographicSize < maxZoomIn) ? maxZoomIn : newOrtographicSize;
+        maxZoomOut = newOrtographicSize;
         Background.instance.CameraValuesChanged();
     }
 

@@ -72,7 +72,6 @@ public class FacebookController : MonoBehaviour
     {
         if (result.Error == null && FB.IsLoggedIn)
         {
-            Debug.Log(result.RawResult);
             IDictionary dict = Facebook.MiniJSON.Json.Deserialize(result.RawResult) as IDictionary;
             string fbname = dict["first_name"].ToString();
             facebookLogedIn.Invoke(fbname);

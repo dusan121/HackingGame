@@ -72,19 +72,19 @@
     <None Include="Assets\Firebase\Editor\DatabaseDependencies.xml" />
     <None Include="Assets\FacebookSDK\Plugins\Editor\Dependencies.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.17f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -324,76 +324,76 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.17f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Gameroom">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
     </Reference>
     <Reference Include="FacebookNamedPipeClient">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.165">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.165.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.165.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.165">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.165.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.165.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.165">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.165.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/ExternalDependencyManager/Editor/Google.JarResolver_v1.2.165.dll</HintPath>
     </Reference>
     <Reference Include="Google.PackageManagerResolver_v1.2.165">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.165.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.165.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Compat">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Tasks">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Auth">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
     </Reference>
     <Reference Include="Google.MiniJson">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Database">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.App">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Platform">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.TaskExtension">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>/Users/dusanjovanovic/Bitbucket/HackingGame/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>/Users/dusanjovanovic/Documents/GitHub/HackingGame/HackingGame/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.17f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
